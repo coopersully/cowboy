@@ -1,0 +1,6 @@
+name: Cowboy
+version: '${project.version}'
+main: me.coopersully.cowboy.Cowboy
+api-version: 1.19
+authors: [ coopersully ]
+description: A lightweight plugin that allows players to mount each other.
